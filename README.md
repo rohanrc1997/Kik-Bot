@@ -1215,3 +1215,5 @@ See https://dev.kik.com/#/docs/messaging#suggested-response-keyboard
 | --- | --- |
 | picUrl | <code>string</code> |
 | metadata | <code>object</code> |
+
+Project by Rohan Choudhary
