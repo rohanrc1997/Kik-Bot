@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Use this library to communicate with the Kik API to develop a bot for [Kik Messenger][kik-url]. Got to [dev.kik.com][dev-kik-url] to learn more and start building a bot.
+Use this library to communicate with the Kik API and develop a bot for [Kik Messenger][kik-url]. Got to [dev.kik.com][dev-kik-url] to learn more and start building a bot.
 
 - Install with [`npm install @kikinteractive/kik`][npm-url]
 
