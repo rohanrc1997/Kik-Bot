@@ -16,7 +16,7 @@ If you're looking to contribute to the `kik` package, check out the [Contributin
 
 ## Getting Help
 
-Here are other resources for using Kik node:
+Here are other resources required for using Kik node:
 
 - [stackoverflow.com][stackoverflow-url] is a great place to get answers about building a Kik chat bot.
 - Go to [dev.kik.com][dev-kik-url] to get started building a bot, scan the code at dev.kik.com and talk to Botsworth.
